@@ -1,2 +1,2 @@
 environment = "gitops"
-app_version = "v1.0.0"
+app_version = "v1.1.0"
