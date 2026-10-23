@@ -30,6 +30,7 @@ locals {
     ManagedBy   = "TerraformCloud"
     Lab         = "12"
     Workflow    = "VCS-driven"
+    CostCenter  = "Training"
   }
 }
 
